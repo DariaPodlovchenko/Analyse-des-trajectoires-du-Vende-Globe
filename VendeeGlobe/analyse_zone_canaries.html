@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_fcf52fcc9f3b3400e837a38880e709ee {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_fcf52fcc9f3b3400e837a38880e709ee" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_fcf52fcc9f3b3400e837a38880e709ee = L.map(
+                "map_fcf52fcc9f3b3400e837a38880e709ee",
+                {
+                    center: [28.0, -15.0],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 6,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_fdc7617aef03a789ffbfa77eb8313454 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detectRetina": false, "maxNativeZoom": 19, "maxZoom": 19, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_fdc7617aef03a789ffbfa77eb8313454.addTo(map_fcf52fcc9f3b3400e837a38880e709ee);
+        
+    
+            var polygon_e4961f40da9481d30bd0a626885271c5 = L.polygon(
+                [[27.5, -18.2], [27.5, -13.5], [29.5, -13.5], [29.5, -18.2], [27.5, -18.2]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_fcf52fcc9f3b3400e837a38880e709ee);
+        
+    
+        var popup_84de2ac48f1c96f014e44e5cb4da1ece = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_34b16f6fb098ee1fda16f07e227b46d1 = $(`<div id="html_34b16f6fb098ee1fda16f07e227b46d1" style="width: 100.0%; height: 100.0%;">Zone dangereuse - Îles Canaries</div>`)[0];
+                popup_84de2ac48f1c96f014e44e5cb4da1ece.setContent(html_34b16f6fb098ee1fda16f07e227b46d1);
+            
+        
+
+        polygon_e4961f40da9481d30bd0a626885271c5.bindPopup(popup_84de2ac48f1c96f014e44e5cb4da1ece)
+        ;
+
+        
+    
+    
+            var poly_line_46c1430f73c48640f7a1e58b088696a9 = L.polyline(
+                [[46.44916666666666, -1.8415], [44.1135, -8.686666666666667], [41.03516666666667, -12.6895], [36.985166666666665, -13.801833333333333], [35.316833333333335, -15.1335], [35.071, -15.417], [32.31216666666667, -15.448666666666666], [25.683333333333334, -16.2615], [24.700333333333333, -17.8165], [14.0295, -26.574666666666666], [10.433666666666667, -26.187833333333334]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 2.5}
+            ).addTo(map_fcf52fcc9f3b3400e837a38880e709ee);
+        
+    
+        var popup_2614acd9a087909bec949ce48c447b76 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5a46af0b7a5cf16351720d9bea913615 = $(`<div id="html_5a46af0b7a5cf16351720d9bea913615" style="width: 100.0%; height: 100.0%;">Route du bateau Szabolcs Weöres New Europe traversant la zone</div>`)[0];
+                popup_2614acd9a087909bec949ce48c447b76.setContent(html_5a46af0b7a5cf16351720d9bea913615);
+            
+        
+
+        poly_line_46c1430f73c48640f7a1e58b088696a9.bindPopup(popup_2614acd9a087909bec949ce48c447b76)
+        ;
+
+        
+    
+    
+            var layer_control_96fb68eb9acf90d8dbdb2ab327d1828c_layers = {
+                base_layers : {
+                    "openstreetmap" : tile_layer_fdc7617aef03a789ffbfa77eb8313454,
+                },
+                overlays :  {
+                },
+            };
+            let layer_control_96fb68eb9acf90d8dbdb2ab327d1828c = L.control.layers(
+                layer_control_96fb68eb9acf90d8dbdb2ab327d1828c_layers.base_layers,
+                layer_control_96fb68eb9acf90d8dbdb2ab327d1828c_layers.overlays,
+                {"autoZIndex": true, "collapsed": true, "position": "topright"}
+            ).addTo(map_fcf52fcc9f3b3400e837a38880e709ee);
+
+        
+    
+            tile_layer_fdc7617aef03a789ffbfa77eb8313454.addTo(map_fcf52fcc9f3b3400e837a38880e709ee);
+        
+</script>
+</html>

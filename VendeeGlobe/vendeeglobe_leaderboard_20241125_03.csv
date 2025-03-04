@@ -1,0 +1,157 @@
+;;Skipper / Bateau;Heure FR;Latitude;Longitude;Cap;Vitesse;VMG;Distance
+1;"FRA
+FRA 79";"Charlie Dalin
+MACIF Santé Prévoyance";"02:30 FR
+";21°25.07'S;20°40.35'W;126°;23.0 kts;22.7 kts;552.1 nm
+2;"FRA
+FRA 59";"Thomas Ruyant
+VULNERABLE";"02:30 FR
+";21°02.85'S;21°22.54'W;126°;23.8 kts;23.5 kts;572.4 nm
+3;"FRA
+FRA 24";"Yoann Richomme
+PAPREC ARKÉA";"02:30 FR
+";20°58.17'S;21°27.53'W;128°;24.2 kts;23.9 kts;579.9 nm
+4;"GBR
+FRA 100";"Sam Goodchild
+VULNERABLE";"02:30 FR
+";20°24.99'S;22°02.34'W;125°;22.0 kts;21.7 kts;527.4 nm
+5;"FRA
+FRA 112";"Sébastien Simon
+Groupe Dubreuil";"02:30 FR
+";20°12.22'S;21°46.26'W;125°;23.2 kts;22.8 kts;556.7 nm
+6;"FRA
+FRA85";"Nicolas Lunven
+HOLCIM - PRB";"02:30 FR
+";20°09.50'S;22°08.74'W;127°;23.4 kts;23.1 kts;562.2 nm
+7;"FRA
+FRA 3";"Jérémie Beyou
+Charal";"02:30 FR
+";20°06.23'S;22°05.77'W;126°;23.2 kts;22.9 kts;557.6 nm
+8;"FRA
+FRA 17";"Yannick Bestaven
+Maître CoQ V";"02:30 FR
+";19°42.06'S;22°18.84'W;125°;22.3 kts;21.9 kts;534.6 nm
+9;"FRA
+FRA 2030";"Paul Meilhat
+Biotherm";"02:30 FR
+";19°07.33'S;22°58.45'W;124°;21.6 kts;21.2 kts;518.7 nm
+10;"GBR
+FRA 109";"Samantha Davies
+Initiatives-Cœur";"02:30 FR
+";18°24.54'S;23°41.80'W;131°;18.8 kts;18.7 kts;452.0 nm
+11;"SUI
+FRA 08";"Justine Mettraux
+TeamWork - Team Snef";"02:30 FR
+";18°06.28'S;24°27.46'W;126°;18.4 kts;18.1 kts;442.0 nm
+12;"FRA
+FRA 15";"Clarisse Crémer
+L'Occitane en Provence";"02:30 FR
+";17°36.29'S;24°15.87'W;129°;18.9 kts;18.6 kts;453.8 nm
+13;"GER
+MON 1297";"Boris Herrmann
+Malizia - Seaexplorer";"02:30 FR
+";17°24.89'S;24°32.33'W;127°;20.2 kts;19.9 kts;484.2 nm
+14;"FRA
+FRA 09";"Benjamin Dutreux
+GUYOT environnement - Water Family";"02:30 FR
+";17°19.27'S;25°12.65'W;132°;19.6 kts;19.4 kts;469.3 nm
+15;"GBR
+GBR 777";"Pip Hare
+Medallia";"02:30 FR
+";16°45.09'S;26°24.49'W;134°;18.4 kts;18.4 kts;442.0 nm
+16;"FRA
+FRA 10";"Romain Attanasio
+Fortinet - Best Western";"02:30 FR
+";16°12.36'S;25°48.98'W;133°;18.4 kts;18.3 kts;432.1 nm
+17;"FRA
+FRA 13";"Damien Seguin
+Groupe APICIL";"02:30 FR
+";15°36.23'S;26°46.81'W;139°;16.9 kts;16.9 kts;406.0 nm
+18;"FRA
+FRA 18";"Louis Burton
+Bureau Vallée";"02:30 FR
+";13°27.24'S;28°25.66'W;154°;15.1 kts;14.8 kts;361.7 nm
+19;"FRA
+FRA 27";"Isabelle Joschke
+MACSF";"02:30 FR
+";12°03.92'S;30°15.03'W;161°;14.5 kts;13.9 kts;348.9 nm
+20;"FRA
+FRA 29";"Jean Le Cam
+Tout commence en Finistère - Armor-lux";"02:30 FR
+";08°52.94'S;26°02.19'W;172°;13.5 kts;12.9 kts;323.7 nm
+21;"FRA
+FRA 5";"Éric Bellion
+STAND AS ONE - Altavia";"02:30 FR
+";08°46.80'S;26°49.78'W;167°;13.3 kts;13.0 kts;320.1 nm
+22;"FRA
+FRA 01";"Violette Dorange
+DeVenir";"02:30 FR
+";08°52.23'S;27°09.67'W;170°;13.5 kts;12.9 kts;323.0 nm
+23;"SUI
+SUI 7";"Alan Roura
+Hublot";"02:30 FR
+";07°34.47'S;26°26.38'W;177°;14.7 kts;13.8 kts;353.0 nm
+24;"NZL
+NZL 64";"Conrad Colman
+MS Amlin";"02:30 FR
+";06°59.82'S;25°38.81'W;182°;13.4 kts;12.4 kts;322.7 nm
+25;"ITA
+ITA 34";"Giancarlo Pedote
+Prysmian";"02:30 FR
+";08°01.63'S;27°44.86'W;175°;15.0 kts;14.0 kts;359.9 nm
+26;"FRA
+FRA 30";"Benjamin Ferré
+Monnoyeur - DUO for a JOB";"02:30 FR
+";08°09.43'S;28°18.28'W;173°;13.9 kts;13.0 kts;333.6 nm
+27;"FRA
+FRA 14";"Arnaud Boissières
+La Mie Câline";"02:30 FR
+";08°37.78'S;29°15.90'W;175°;15.0 kts;13.8 kts;360.6 nm
+28;"FRA
+FRA 172";"Louis Duc
+Fives Group - Lantana Environnement";"02:30 FR
+";08°51.32'S;29°36.27'W;169°;13.6 kts;12.8 kts;326.7 nm
+29;"JPN
+JPN 11";"Kojiro Shiraishi
+DMG MORI Global One";"02:30 FR
+";08°23.35'S;29°07.81'W;173°;15.9 kts;14.8 kts;381.4 nm
+30;"FRA
+FRA 1000";"Tanguy Le Turquais
+Lazare";"02:30 FR
+";08°20.56'S;29°29.89'W;171°;13.6 kts;12.7 kts;325.5 nm
+31;"FRA
+FRA 83";"Sébastien Marsset
+FOUSSIER";"02:30 FR
+";07°04.58'S;28°53.28'W;173°;12.6 kts;11.8 kts;302.4 nm
+32;"FRA
+FRA 22";"Guirec Soudée
+Freelance.com";"02:30 FR
+";06°53.35'S;28°54.15'W;175°;12.8 kts;11.9 kts;308.0 nm
+33;"FRA
+FRA 1461";"Antoine Cornic
+HUMAN Immobilier";"02:30 FR
+";05°20.31'S;29°05.44'W;180°;12.1 kts;10.9 kts;290.3 nm
+34;"FRA
+FRA 71";"Manuel Cousin
+Coup de Pouce";"02:30 FR
+";06°30.00'S;30°58.94'W;175°;12.9 kts;11.7 kts;309.6 nm
+35;"FRA
+FRA 56";"Fabrice Amedeo
+Nexans - Wewise";"02:30 FR
+";04°52.20'S;28°40.05'W;178°;11.3 kts;10.3 kts;270.3 nm
+36;"SUI
+SUI 49";"Oliver Heer
+Tut gut.";"02:30 FR
+";04°36.34'S;28°15.11'W;183°;11.9 kts;10.6 kts;285.7 nm
+37;"BEL
+BEL 207";"Denis Van Weynbergh
+D'Ieteren Group";"02:30 FR
+";03°56.25'S;29°57.68'W;184°;11.6 kts;10.0 kts;277.4 nm
+38;"CHN
+CHN 5";"Jingkun Xu
+Singchain Team Haikou";"02:30 FR
+";00°50.97'S;30°05.43'W;204°;11.3 kts;7.8 kts;271.1 nm
+39;"HUN
+HUN 23";"Szabolcs Weöres
+New Europe";"02:30 FR
+";14°01.77'N;26°34.48'W;188°;8.8 kts;8.7 kts;211.9 nm
