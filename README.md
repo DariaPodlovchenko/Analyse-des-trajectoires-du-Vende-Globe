@@ -1,4 +1,4 @@
-<h1 align="center">Analyse des trajectoires des skippers<br>du Vendée Globe avec Python et Folium</h1>
+<h1 align="center">Analyse des trajectoires des skippers<br>du Vendée Globe avec Python (Folium)</h1>
 
 Ce projet analyse et visualise les trajectoires des bateaux du Vendée Globe, en exploitant des données géospatiales pour suivre leurs déplacements et détecter les traversées de zones à risque. L'approche combine le traitement des données en Python avec la visualisation interactive sur carte.
 
