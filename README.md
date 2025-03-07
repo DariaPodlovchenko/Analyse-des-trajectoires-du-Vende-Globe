@@ -40,3 +40,5 @@ Cette carte affiche uniquement le trajet d’un bateau du Vendée Globe qui trav
     <img src="https://github.com/DariaPodlovchenko/Analyse-des-trajectoires-du-Vende-Globe/raw/main/zone_risque.jpg" width="600">
 </div>
 
+*Dans le dossier **VendeeGlobe**, se trouvent les **données utilisées pour la réalisation de ce project**.  
+Le dossier **scripts** contient **les scripts de traitement et de génération des cartes**, notamment **`vendee_globe_tracking.py` et `zone_risque.py`**, ainsi que les **visualisations finales en format HTML** comme **`analyse_zone_canaries.html`** et **vendeeglobe.html**.*
