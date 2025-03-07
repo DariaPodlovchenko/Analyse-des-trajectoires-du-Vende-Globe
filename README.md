@@ -17,6 +17,13 @@ Fonctionnalités
 - Folium – Création de la carte interactive et ajout des trajets des skippers.
 - Shapely – Analyse spatiale des itinéraires pour identifier les passages dans les zones à risque.
 
+Cette carte visualise les trajectoires des yachts participant au tour du monde Vendée Globe. Elle est construite à partir de **données géospatiales GPS** et utilise des outils interactifs comme Folium (Python).  
+Éléments principaux de la carte :
+- Point de départ – marqué par un cercle rouge dans la ville de Les Sables-d'Olonne, port officiel du départ de la course.
+- Trajectoires des yachts – représentées par des lignes en pointillés, illustrant le parcours des participants à travers l’océan Atlantique.
+- Points intermédiaires – leur couleur indique l'heure d'enregistrement des coordonnées :  Bleu clair (`lightblue`) – enregistré à 03:00, Bleu (`blue`) – enregistré à 23:00.
+- Fenêtres interactives – en cliquant sur un point, on peut voir le nom du bateau, la date et l'heure de l'enregistrement.  
+
 <div align="center">
     <img src="https://github.com/DariaPodlovchenko/Analyse-des-trajectoires-du-Vende-Globe/raw/main/itineraire.jpg" width="600">
 </div>
