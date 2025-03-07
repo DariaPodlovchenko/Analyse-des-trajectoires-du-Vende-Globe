@@ -6,10 +6,10 @@ Ce projet analyse et visualise les trajectoires des bateaux du Vendée Globe, en
 
 Points clés :
 - Traitement des données géospatiales : Chargement et prétraitement des données GPS des skippers à partir de fichiers CSV.
+- Extraction et transformation des coordonnées : Conversion des coordonnées au format décimal pour standardiser les données.
+- Organisation des données temporelles : Agrégation et tri des trajets pour une lecture chronologique.
 - Visualisation interactive : Création d'une carte interactive des trajets avec Folium.
 - Analyse des zones à risque : Utilisation de Shapely pour détecter les skippers entrant dans une zone spécifique (ex. : autour des îles Canaries).
-- Organisation des données temporelles : Agrégation et tri des trajets pour une lecture chronologique.
-- Extraction et transformation des coordonnées : Conversion des coordonnées au format décimal pour standardiser les données.
 - Résultats visuels : Génération d'une carte interactive affichant les parcours et les points d'entrée dans les zones à risque.
 
 Fonctionnalités
