@@ -29,6 +29,6 @@ Cette carte visualise les trajectoires des yachts participant au tour du monde V
 </div>
 
 <div align="center">
-    <img src="https://github.com/DariaPodlovchenko/Application-Webmapping-SNCF-JS/raw/main/img.jpg" width="600">
+    <img src="https://github.com/DariaPodlovchenko/Analyse-des-trajectoires-du-Vende-Globe/raw/main/zone_risque.jpg" width="600">
 </div>
 
