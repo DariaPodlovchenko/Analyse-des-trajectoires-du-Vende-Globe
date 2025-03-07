@@ -28,6 +28,14 @@ Cette carte visualise les trajectoires des yachts participant au tour du monde V
     <img src="https://github.com/DariaPodlovchenko/Analyse-des-trajectoires-du-Vende-Globe/raw/main/itineraire.jpg" width="600">
 </div>
 
+Cette carte affiche uniquement le trajet d’un bateau du Vendée Globe qui traverse la zone de risque située autour des îles Canaries.
+Éléments principaux de la carte :
+- Point de départ – représenté par un cercle rouge à Les Sables-d'Olonne (France), port officiel du départ de la course.
+- Trajectoire du bateau sélectionné – affichée en rouge en pointillés, indiquant son passage dans la zone de risque.
+- Zone de risque – les îles Canaries sont entourées d’un polygone bleu pour marquer la zone à surveiller.
+- Points intermédiaires – leur couleur indique l'heure d'enregistrement des coordonnées :  Bleu clair (`lightblue`) – enregistré à 03:00, Bleu (`blue`) – enregistré à 23:00.
+- Fenêtres interactives – permettent d’afficher uniquement le nom du bateau en cliquant sur la trajectoire.
+
 <div align="center">
     <img src="https://github.com/DariaPodlovchenko/Analyse-des-trajectoires-du-Vende-Globe/raw/main/zone_risque.jpg" width="600">
 </div>
