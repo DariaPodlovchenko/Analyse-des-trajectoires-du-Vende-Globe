@@ -18,7 +18,7 @@ Fonctionnalités
 - Shapely – Analyse spatiale des itinéraires pour identifier les passages dans les zones à risque.
 
 <div align="center">
-    <img src="https://github.com/DariaPodlovchenko/Application-Webmapping-SNCF-JS/raw/main/img.jpg" width="600">
+    <img src="https://github.com/DariaPodlovchenko/Analyse-des-trajectoires-du-Vende-Globe/raw/main/itineraire.jpg" width="600">
 </div>
 
 <div align="center">
