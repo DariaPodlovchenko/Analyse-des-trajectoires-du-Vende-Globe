@@ -2,7 +2,7 @@
 
 Ce projet analyse et visualise les trajectoires des bateaux du Vendée Globe, en exploitant des données géospatiales pour suivre leurs déplacements et détecter les traversées de zones à risque. L'approche combine le traitement des données en Python avec la visualisation interactive sur carte.
 
-*Les mots clés : SIG, Python, Pandas, Folium, Shapely, Cartographie*
+*Les mots clés : SIG, Python, Pandas, Folium, Shapely*
 
 Points clés :
 - Traitement des données géospatiales : Chargement et prétraitement des données GPS des skippers à partir de fichiers CSV.
